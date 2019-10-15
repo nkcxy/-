@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565152212066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "303005949",
+    "id" : "634C4E1",
+    "lastKnownWriteTime" : 1565537564,
+    "last_content_update" : 1565537564397,
+    "path" : "~/Desktop/信息录入/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "25,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565147164393.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4204813844",
+    "id" : "69E0B7BE",
+    "lastKnownWriteTime" : 1565326090,
+    "last_content_update" : 1565326090255,
+    "path" : "~/Desktop/信息录入/aa.R",
+    "project_path" : "aa.R",
+    "properties" : {
+        "cursorPosition" : "697,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

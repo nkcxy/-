@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/信息录入",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
